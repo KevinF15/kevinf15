@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Kevin 👋
+Junior web developer 😅
 
-<!--
-**KevinF15/kevinf15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+~~~ javascript
+const littleAboutMe👨🏻 = {
+    name: "Kevin Falcón",
+    skills: ["HTML", "CSS", "Javascript", "PHP", "SQL"],
+    technologies: {
+        frontEnd: {
+            JS: ["jQuery", "AJAX"],
+            CSS: ["Bootstrap", "CSS-Grid", "Flexbox"],
+            learning: ["React.js", "Node.js"]
+        },
+        backEnd: {
+            PHP: ["PHP"]
+        },
+    },
+    hobbies: {
+        interests: ["Images/Flyers design", "Branding", "UI Design"],
+        software: ["Adobe Photoshop", "Adobe Illustrator"]
+    },
+    currentOccupation: "Student, searching for job opportunities"
+}
+~~~
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
